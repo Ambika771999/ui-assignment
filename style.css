@@ -75,6 +75,7 @@ section {
 
 #header .navbar a {
   margin: 0 8px;
+  color: white !important;
 }
 
 #header .navbar .nav-btn-sep {
